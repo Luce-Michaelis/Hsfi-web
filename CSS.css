@@ -1,0 +1,26 @@
+body{
+    background: url("http://eskipaper.com/images/blue-1.jpg");
+    font-family: 'Indie Flower', cursive;
+    
+}
+#boy{
+    height: 200px;
+    width:200px;
+    margin:10px;
+}
+#artpaint{
+    height:200px;
+    width:150px;
+    margin:10px;
+}
+#color{
+    height:200px;
+    margin:10px;
+}
+#camara{
+    height:200px;
+    width:150px;
+    margin:10px;
+}
+#site-style{font-family: 'Lemonada', cursive;
+}
